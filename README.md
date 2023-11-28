@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROIYSzHTL4X4DKZsvXEV6PYrZPDMtPlUcQCWDdoUqnQJKI7XGeMihGmSiiDvsrVKbLcnA&usqp=CAU))
+
 
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">Data Engineering Student</h3>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask & Web App Deployment**
 
-- 📫 How to reach me **simon.henes3797©gmail.com**
+- 📫 How to reach me **simon.henes3797@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
