@@ -4,9 +4,6 @@
 <h3 align="center">Data Engineering | Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **classification problems**
-
-- 🌱 I’m currently learning **Flask & Web App Deployment**
 
 - 📫 How to reach me **simon.henes3797@gmail.com**
 
